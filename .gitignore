@@ -1,0 +1,14 @@
+# Build files
+*.exe
+*.o
+*.obj
+
+# Folders
+bin/
+build/
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
